@@ -1,0 +1,85 @@
+.barsik {
+	background: #610ba3;
+	display: flex;
+	align-items: center;
+	padding: 20px;
+}
+
+h1 {
+	margin-left: 6%;
+	color: #1cb4d6;
+}
+
+body {
+	margin: 0;
+}
+
+h2 {
+	text-align:center;
+	margin-top: 0;
+
+}
+
+.brawl {
+	background: #1cb4d6;
+	text-align: center;
+	padding: 20px;
+}
+
+.podarok {
+	text-align: center;
+	color: #1cb4d6;
+}
+
+ol {
+	color: #1cb4d6;
+	width: 180px;
+	margin: auto;
+}
+
+.мы {
+	background: #610ba3;
+	padding: 20px;
+}
+
+li {
+	text-decoration: underline;
+}
+
+td,th {
+	border: #610ba3 4px solid;
+}
+
+table {
+	border-collapse:collapse;
+	margin: auto;
+	text-align: center;
+}
+
+.амогус {
+	background: #1cb4d6;
+	padding: 30px;
+}
+
+th {
+	background: #f20f1e;
+}
+
+td {
+	background: #e0a348;
+}
+
+p {
+	text-align: center;
+	margin-bottom: 0;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.brawl img {
+	border: red 7px solid;
+}
+
+.barsik img {
+	border: lightblue 7px solid;
+}
